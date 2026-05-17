@@ -93,7 +93,7 @@ This section focuses on hospital revenue trends, insurance provider contribution
 This section examines admission trends, admission types, and emergency admissions across genders.
 
 <img width="700" alt="Admission Analysis" src="images\admission_analysis1.png">
-<img width="700" alt="Admission Analysis" src="images\admission_analysis_2.png">
+<img width="700" alt="Admission Analysis" src="images\admission_analysis2.png">
 
 ---
 
