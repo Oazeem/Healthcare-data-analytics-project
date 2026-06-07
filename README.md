@@ -110,6 +110,27 @@ This section analyzes patient test outcomes and medical conditions associated wi
 This section highlights the most prescribed medications and medications associated with the highest billing amounts.
 
 <img width="700" alt="Medication Analysis" src="images/medication_analysis.png">
+
+---
+
+# Interactive Dashboards
+
+The project includes interactive Excel dashboards that allow users to filter and explore healthcare data by:
+
+- Gender
+- Medical Condition
+- Insurance Provider
+- Medication
+- Blood Group
+- Test Results
+
+## Billing Dashboard
+
+<img width="700" alt="Billing Dashboard" src="images/billing_dashboard.png">
+
+## Admission Dashboard
+
+<img width="700" alt="Admission Dashboard" src="images/admission_dashboard.png">
 ---
 
 # 5. Key Findings & Insights
